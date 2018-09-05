@@ -7,6 +7,9 @@ https://dzone.com/articles/play-youtube-videos-in-android-app
 Sample apps using YT API:
 https://developers.google.com/youtube/android/player/sample-applications
 
+another useful tutorial:
+https://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/
+
 API KEY:
 AIzaSyBUyBmflqggfb33TO6eumtH7m3_XCoCbmY
 
