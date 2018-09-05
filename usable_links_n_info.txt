@@ -6,3 +6,13 @@ https://dzone.com/articles/play-youtube-videos-in-android-app
 
 Sample apps using YT API:
 https://developers.google.com/youtube/android/player/sample-applications
+
+API KEY:
+AIzaSyBUyBmflqggfb33TO6eumtH7m3_XCoCbmY
+
+KBSWorld channel url w API KEY:
+https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC5BMQOsAB8hKUyHu9KI6yig&maxResults=25&q=surfing&key=AIzaSyBUyBmflqggfb33TO6eumtH7m3_XCoCbmY
+
+KBSWorld live vid ID:
+KkXq2sv6Tos
+
