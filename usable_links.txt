@@ -1,0 +1,8 @@
+YT API explorer:
+https://developers.google.com/apis-explorer/#p/youtube/v3/
+
+Play YT videos from designated list tutorial using AS (for mobile app):
+https://dzone.com/articles/play-youtube-videos-in-android-app
+
+Sample apps using YT API:
+https://developers.google.com/youtube/android/player/sample-applications
